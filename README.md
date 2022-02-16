@@ -1,4 +1,4 @@
-# Random forst algorithm for breast cancer wisconsin data 
+# Random forest algorithm for breast cancer wisconsin data 
 
 Explanation for code design steps
 
